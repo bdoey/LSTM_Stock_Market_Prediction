@@ -11,3 +11,8 @@ This notebook aims to predict the stock market moves for the S&P 500 using Long 
 6. Evaluation: Compare the predictions with actual historical data for 2023.
 7. Visualization: Plot the predictions alongside the actual data.
 8. Make Predictions: Make predictions over the next 120 days.
+
+
+TL:DR - Predictions over the next 120 days:
+
+![LSTM-Future_Predictions](https://github.com/bdoey/LSTM_Stock_Market_Prediction/assets/115423679/fea165d8-6940-450a-82c9-800f1b7e60af)
